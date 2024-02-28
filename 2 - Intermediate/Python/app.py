@@ -21,3 +21,8 @@ acronym = ""
 for word in words:
     acronym += word[0]
 print("Acronym:", acronym.upper())
+
+
+
+
+
