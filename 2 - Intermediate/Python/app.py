@@ -6,8 +6,10 @@
 	* Technology Day - IT Section
 	* Richmond College Technology Society
 
-	Problem - enter a sentence and then generate an acronym from the first letter of each word
-    Description: These code snippets prompt the user to enter a sentence and then generate 
+	Problem - enter a sentence and then generate an acronym 
+ 		  from the first letter of each word
+    	
+     	Description: These code snippets prompt the user to enter a sentence and then generate 
                 an acronym from the first letter of each word. They introduce string manipulation, 
                 arrays, and loops, which are important concepts for intermediate level hackathons.
 
